@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Sequel.Models
 {
@@ -19,5 +20,11 @@ namespace Sequel.Models
         public string Homepage { get; set; }
 
         public double Rating { get; set; }
+
+        public List<ShowGenre> ShowGenres { get; set; }
+
+        public List<Season> Seasons { get; set; }
+
+        public List<ShowCharacter> ShowCharacters { get; set; }
     }
 }
