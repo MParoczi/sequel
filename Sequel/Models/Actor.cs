@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Sequel.Models
 {
@@ -13,5 +14,7 @@ namespace Sequel.Models
         public DateTime Death { get; set; }
 
         public string Biography { get; set; }
+
+        public List<ShowCharacter> ShowCharacters { get; set; }
     }
 }
