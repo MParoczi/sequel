@@ -1,4 +1,4 @@
-﻿ALTER TABLE IF EXISTS ONLY show_genre
+ALTER TABLE IF EXISTS ONLY show_genre
     DROP CONSTRAINT IF EXISTS fk_show_genres_genre_id CASCADE;
 ALTER TABLE IF EXISTS ONLY show_genre
     DROP CONSTRAINT IF EXISTS fk_show_genres_show_id CASCADE;

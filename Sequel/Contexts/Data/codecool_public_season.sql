@@ -1,4 +1,4 @@
-﻿INSERT INTO season (season_id, season_number, title, overview, show_id)
+INSERT INTO season (season_id, season_number, title, overview, show_id)
 VALUES (3962, 0, 'Specials', null, 1390);
 INSERT INTO season (season_id, season_number, title, overview, show_id)
 VALUES (3963, 1, 'Season 1',

@@ -1,4 +1,4 @@
-﻿INSERT INTO show_character (show_character_id, show_id, actor_id, character_name)
+INSERT INTO show_character (show_character_id, show_id, actor_id, character_name)
 VALUES (1, 1390, 436511, 'Daenerys Targaryen');
 INSERT INTO show_character (show_character_id, show_id, actor_id, character_name)
 VALUES (2, 1390, 436512, 'Jon Snow');

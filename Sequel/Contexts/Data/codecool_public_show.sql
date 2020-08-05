@@ -1,4 +1,4 @@
-﻿INSERT INTO show (show_id, title, year, overview, runtime, trailer, homepage, rating)
+INSERT INTO show (show_id, title, year, overview, runtime, trailer, homepage, rating)
 VALUES (1390, 'Game of Thrones', '2011-01-01',
         'Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night''s Watch, is all that stands between the realms of men and the icy horrors beyond.',
         60, 'http://youtube.com/watch?v=giYeaKsXnsI', 'http://www.hbo.com/game-of-thrones', 9.36651);

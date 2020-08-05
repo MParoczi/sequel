@@ -1,4 +1,4 @@
-﻿INSERT INTO actor (actor_id, name, birthday, death, biography) VALUES (436511, 'Emilia Clarke', '1986-10-23', null, 'Emilia Isabelle Euphemia Rose Clarke (born 23 October 1986) is an English actress.
+INSERT INTO actor (actor_id, name, birthday, death, biography) VALUES (436511, 'Emilia Clarke', '1986-10-23', null, 'Emilia Isabelle Euphemia Rose Clarke (born 23 October 1986) is an English actress.
 
 Clarke rose to prominence in 2011 for her breakthrough role as Daenerys Targaryen in the HBO series Game of Thrones, a performance that has gained her both critical and popular acclaim. In 2017, Clarke became one of the highest paid actors on television for earnings of £2 million per episode of Game of Thrones.
 
